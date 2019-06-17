@@ -23,3 +23,4 @@ Required libraries:
 * matplotlib
 * seaborn
 * dask (not really, just if you want faster random forest training)
+* geohash.py
