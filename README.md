@@ -24,3 +24,8 @@ Required libraries:
 * seaborn
 * dask (not really, just if you want faster random forest training)
 * geohash.py
+
+
+Models used: 
+1. Naive  RMSE: 0.0549
+2. RandomForestRegressor(max_depth = 10, n_estimators = 30)  RMSE: 0.0427
