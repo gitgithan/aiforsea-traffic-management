@@ -14,4 +14,12 @@ To predict, please insert your dataframe into the last cell in my Traffic Manage
 It was a great challenge that allowed me to learn things i wouldn't otherwise.
 
 Thank you.
- 
+
+
+Required libraries:
+* numpy
+* pandas
+* sklearn
+* matplotlib
+* seaborn
+* dask (not really, just if you want faster random forest training)
