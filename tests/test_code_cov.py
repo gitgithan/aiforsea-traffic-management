@@ -1,7 +1,12 @@
 import pytest
-from src.helpers import multiply_two
+import sys
+import os
 
-class TestCodeCov():
+from src.helpers import multiply_two 
+
+print('TESTING test_code_cov.py')
+
+class TestHelpers():
     def test_multiply_two(self):
         actual = multiply_two(3)
         expected = 6
