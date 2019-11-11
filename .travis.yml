@@ -3,3 +3,7 @@ python:
   - "3.7"
 script:
   - echo "Running Tests"
+  - pytest --cov="Traffic Management" tests
+
+after_success:
+  - codecov
