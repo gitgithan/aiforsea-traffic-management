@@ -1,6 +1,8 @@
 language: python
 python:
   - "3.7"
+install:
+  - pip install pytest-cov codecov
 script:
   - echo "Running Tests"
   - pytest tests
