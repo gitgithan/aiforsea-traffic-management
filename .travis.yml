@@ -5,7 +5,7 @@ install:
   - pip install pytest-cov codecov
 script:
   - echo "Running Tests"
-  - pytest tests
+  - pytest --cov=src tests
 
 after_success:
   - codecov
