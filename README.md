@@ -1,4 +1,5 @@
 # aiforsea-traffic-management
+[![Build Status](https://travis-ci.com/gitgithan/aiforsea-traffic-management.svg?branch=master)](https://travis-ci.com/gitgithan/aiforsea-traffic-management)
 [![codecov](https://codecov.io/gh/gitgithan/aiforsea-traffic-management/branch/master/graph/badge.svg)](https://codecov.io/gh/gitgithan/aiforsea-traffic-management)
 
 Dear Evaluators,
